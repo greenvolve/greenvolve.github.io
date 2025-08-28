@@ -134,3 +134,11 @@ To be announced.
 ## Contact
 For any questions, please don't hesitate to contact us at: [greenvolve2026@easychair.org](greenvolve2026@easychair.org)
 
+## Sponsors
+This workshop is sponsored by the [RECHARGE project](https://recharge-project.github.io), funded by the Italian Government (Ministero dell'Università e della Ricerca, PRIN 2022 PNRR) - cod.P2022SELA7: "RECHARGE: monitoRing, tEsting, and CHaracterization of performAnce Regressions" - Decreto Direttoriale n. 1205 del 28/7/2023.
+
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <img src="uploads/LogoUE-IT.png" alt="Finanziato dall'Unione Europea - NextGenerationEU" width="200">
+  <img src="uploads/MUR-logo.png" alt="Ministero dell'Università e della Ricerca" width="200">
+  <img src="uploads/italia-domani-logo.png" alt="ItaliaDomani - Piano Nazionale di Ripresa e Resilienza" width="200">
+</div>
