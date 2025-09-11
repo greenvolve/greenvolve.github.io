@@ -127,6 +127,8 @@ Contributions need to be submitted in PDF format via EasyChair to [SANER 2026](h
  * Maja H. Kirkeby, Roskilde University, Denmark
  * Ana Oprescu, University of Amsterdam, Netherlands
 
+more to come...
+
 ## Important dates
 (All deadlines are 23:59, Anywhere on Earth)
 
