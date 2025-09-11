@@ -120,7 +120,12 @@ Contributions need to be submitted in PDF format via EasyChair to [SANER 2026](h
 
 ## Program Committee
 
-To be announced.
+ * Shaukat Ali, Simula Research Laboratory, Norway
+ * Vasilios Andrikopoulos, University of Groningen, Netherlands
+ * Martin Beseda, University of L'Aquila, Italy
+ * Diego Elias Costa, Concordia University, Canada
+ * Maja H. Kirkeby, Roskilde University, Denmark
+ * Ana Oprescu, University of Amsterdam, Netherlands
 
 ## Important dates
 (All deadlines are 23:59, Anywhere on Earth)
