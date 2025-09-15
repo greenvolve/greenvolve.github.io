@@ -126,6 +126,7 @@ Contributions need to be submitted in PDF format via EasyChair to [SANER 2026](h
  * Diego Elias Costa, Concordia University, Canada
  * Maja H. Kirkeby, Roskilde University, Denmark
  * Ana Oprescu, University of Amsterdam, Netherlands
+ * Vincenzo Stoico, Vrije Universiteit Amsterdam, Netherlands
 
 more to come...
 
