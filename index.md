@@ -104,11 +104,16 @@ address anticipated challenges or emerging trends or call
 for specific research directions.
 
 Submitted papers must have been neither previously accepted for publication nor concurrently submitted for review in another journal, book, conference, or workshop.
+
 Submissions will undergo a full double-anonymous review process. To be compliant with the double-anonymous policy, submitted papers must adhere to the same rules as those of the Research track of SANER 2026, which can be found [here](https://conf.researchr.org/track/saner-2026/saner-2026-papers).
-All submissions must come in PDF format and conform, at the time of submission, to the IEEE Conference Proceedings Formatting Guidelines (title in 24pt font and full text in 10pt font, LaTEX users must use \documentclass[10pt,conference]{IEEEtran} without including the compsoc or compsocconf option.
+
+All submissions must come in PDF format and conform, at the time of submission, to the IEEE Conference Proceedings Formatting Guidelines (title in 24pt font and full text in 10pt font, LaTEX users must use `\documentclass[10pt,conference]{IEEEtran}` without including the compsoc or compsocconf option.
 IEEE paper templates can be accessed from their [official location](https://www.ieee.org/conferences/publishing/templates).
-Also, papers must comply with the IEEE Policy on Authorship. All submissions must be in English. 
-Submissions must not exceed page limits, which include figures and references.
+
+Submitted papers must comply with the IEEE Policy on Authorship.
+
+All submissions must be in English and must not exceed page limits, which include figures and references.
+
 Contributions need to be submitted in PDF format via EasyChair to [SANER 2026](https://easychair.org/conferences/?conf=saner2026).
 
 
