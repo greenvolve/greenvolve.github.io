@@ -129,13 +129,15 @@ Contributions need to be submitted in PDF format via EasyChair to [SANER 2026](h
  * Shaukat Ali, Simula Research Laboratory, Norway
  * Vasilios Andrikopoulos, University of Groningen, Netherlands
  * Martin Beseda, University of L'Aquila, Italy
+ * Coral Calero, University of Castilla-La Mancha, Spain
+ * Jácome Cunha, University of Porto and HASLab/INESC TEC, Portugal
  * Diego Elias Costa, Concordia University, Canada
  * Daniele Di Pompeo, University of L'Aquila, Italy
  * Maja H. Kirkeby, Roskilde University, Denmark
+ * Adel Noureddine, University Paris Nanterre, France
  * Ana Oprescu, University of Amsterdam, Netherlands
+ * João Saraiva, University of Minho and HASLab/INESC TEC, Portugal
  * Vincenzo Stoico, Vrije Universiteit Amsterdam, Netherlands
-
-more to come...
 
 ## Important dates
 (All deadlines are 23:59, Anywhere on Earth)
