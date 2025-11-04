@@ -130,6 +130,7 @@ Contributions need to be submitted in PDF format via EasyChair to [SANER 2026](h
  * Vasilios Andrikopoulos, University of Groningen, Netherlands
  * Martin Beseda, University of L'Aquila, Italy
  * Diego Elias Costa, Concordia University, Canada
+ * Daniele Di Pompeo, University of L'Aquila, Italy
  * Maja H. Kirkeby, Roskilde University, Denmark
  * Ana Oprescu, University of Amsterdam, Netherlands
  * Vincenzo Stoico, Vrije Universiteit Amsterdam, Netherlands
