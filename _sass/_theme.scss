@@ -473,3 +473,24 @@ th {
   text-align: center;
   background-color: #eee;
 }
+
+.yellow-label {
+  background-color: #ff6;
+  padding: 0.2em 0.4em;
+}
+
+.announce-box {
+  border-top: 2px solid $bodyColour;
+  border-bottom: 2px solid $bodyColour;
+  background-color: lighten($accentColour, 50%);
+  padding: 1em;
+  margin-bottom: 1.6rem;
+  text-align: center;
+}
+.announce-box a {
+  font-weight: bold;
+  text-decoration: underline;
+}
+.announce-box strong {
+  font-weight: bold;
+}

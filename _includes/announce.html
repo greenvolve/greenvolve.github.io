@@ -1,0 +1,7 @@
+{% assign announce = page.announce %}
+
+{% if announce %}
+  <div class="announce-box">
+    {{ announce | markdownify }}
+  </div>
+{% endif %}

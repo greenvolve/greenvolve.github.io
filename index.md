@@ -3,11 +3,16 @@ title: Greenvolve at SANER 2026
 feature_text: |
   ## Greenvolve at SANER 2026
   1st International Workshop on Green Software Evolution \
-  co-located with [SANER 2026](https://conf.researchr.org/home/saner-2026)
+  co-located with [SANER 2026](https://conf.researchr.org/home/saner-2026) \
+  (March 17, 2026 - Limassol, Cyprus)
 feature_image: "uploads/limassol.jpg"
 excerpt: "Greenvolve is an international workshop on green software evolution."
 redirect_from:
   - /SANER2026/
+announce: |
+  Abstract submission is not mandatory. \
+  Paper submission deadline is **December 18, 2025.** \
+  Submit your paper via [EasyChair](https://easychair.org/conferences/?conf=saner2026).
 ---
 
 Software is crucial for sustainability. Inefficient software
@@ -142,7 +147,7 @@ Contributions need to be submitted in PDF format via EasyChair to [SANER 2026](h
 ## Important dates
 (All deadlines are 23:59, Anywhere on Earth)
 
-- Abstract submission: December 12, 2025
+- ~~Abstract submission: December 12, 2025~~ <span class="yellow-label">Not mandatory </span>
 - Paper submission: December 18, 2025
 - Authors notification: January 14, 2026
 - Camera-ready version: January 20, 2026
