@@ -10,9 +10,10 @@ excerpt: "Greenvolve is an international workshop on green software evolution."
 redirect_from:
   - /SANER2026/
 announce: |
-  Abstract submission is not mandatory. \
-  Paper submission deadline is **December 18, 2025.** \
-  Submit your paper via [EasyChair](https://easychair.org/conferences/?conf=saner2026).
+  List of [accepted papers](#accepted-papers). \
+  Author [registration](https://conf.researchr.org/attending/saner-2026/registration+) deadline is **January 20, 2026.** \
+  Camera-ready deadline is **January 20, 2026**. \
+  Program coming soon!
 ---
 
 Software is crucial for sustainability. Inefficient software
@@ -70,9 +71,37 @@ impact of digital infrastructure.
 
 The proposed topics include, but are not limited to:
 
-{% comment %}
 ## Accepted papers
+{: #accepted-papers}
 
+- Paolo Ferragina and Francesco Tosoni<br>
+**"The Energy–Throughput Trade-off in Lossless-Compressed Source Code Storage"**
+
+- Elena Ballesteros-Morallón, Félix García, María Gutiérrez, Mª Ángeles Moraga and Coral Calero<br>
+**"GREENN: Granular evaluation of Energy Efficiency in Neural Networks"**
+
+- Carlos Pulido Hernández, María de Los Ángeles Moraga de la Rubia and Félix Óscar García Rubio<br>
+**"Orchestrating AI-Driven Code Refactoring Based on Energy Measurements in CI Pipelines"**
+
+- Robert Arntzenius, Xutong Liu and Andy Zaidman<br>
+**"On The Energy Consumption of Continuous Integration in Open-Source Java Projects"**
+
+- Maja Hanne Kirkeby and Timmie Lagermann<br>
+**"Power Assumptions Matter: Revisiting Laptop Energy Models for Sustainability Reporting"**
+
+- Anas Shatnawi, Benoit Verhaeghe, Boubou Thiam Niang and Louay Khrouf<br>
+**"Energy Consumption of Web Frontend Frameworks: An Empirical Comparison of Angular and React"**
+
+- André Brandão, Diogo Matos, Miguel Guimarães, Simão Cunha and João Saraiva<br>
+**"The Green Side of the Lua"**
+
+- Kalle Pronk, Qin Zhao and Siebren Kazemier<br>
+**"Beyond Model Optimization: Practical Energy-Efficient LLM Inference through Context-Aware Input Reduction"**
+
+- Alessandro Aneggi, Andrea Janes and Xiaozhou Li<br>
+**"PPTAMη: Energy Aware CI/CD Pipeline for Container Based Applications"**
+
+{% comment %}
 ## Program
 
 ## Keynote
